@@ -1,2 +1,2 @@
-# Tres en raya
+# tic-tac-toe
  
